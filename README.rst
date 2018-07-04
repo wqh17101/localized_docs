@@ -2,6 +2,8 @@
 sphinx-intl: translation support utility for Sphinx
 ======================================================
 
+using `git submodule update --remote` to update submodule
+
 .. image:: https://travis-ci.org/sphinx-doc/sphinx-intl.svg?branch=master
    :target: https://travis-ci.org/sphinx-doc/sphinx-intl
 
